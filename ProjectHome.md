@@ -1,0 +1,2 @@
+The APIlity PHP Library provides an object-oriented way to easily access and manage the Google AdWords API from within PHP. This comes along with an abstraction from the SOAP and WSDL details.
+The name APIlity is a wordplay on 'API' and 'ability', symbolizing that the AdWords API gives you the ability to do whatever you ever wanted to do with AdWords, and even more.
